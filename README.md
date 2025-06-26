@@ -35,9 +35,8 @@ Before transitioning into tech, I worked across the creative industries, consult
 ![AWS](https://img.shields.io/badge/AWS-181717?logo=amazonaws&logoColor=white&labelColor=232F3E)
 
 **Tools:**  
-![Git](https://img.shields.io/badge/Git-181717?logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-181717?logo=visualstudiocode&logoColor=007ACC)
-![Bruno](https://img.shields.io/badge/Bruno-181717?logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRkZGIiBoZWlnaHQ9IjE2IiB2aWV3Qm94PSIwIDAgMTYgMTYiIHdpZHRoPSIxNiIgeG1sbnM9Imh0dHA6Ly93d3cudzMu%0D%0AMy5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik04LjAwMiAwYy0yLjYxNiAwLTQuNzMzIDIuMTEzLTQu%0D%0ANzczIDQuNzMxIDAgMi42MTYgMi4xMTcgNC43MzIgNC43NzMgNC43MzIgMi42MTYgMCA0LjczMy0y%0D%0ALjExNiA0LjczMy00LjczMiAwLTIuNjE2LTIuMTE3LTQuNzMyLTQuNzMzLTQuNzMyWm0wIDguMjk2%0D%0AYy0xLjkyNiAwLTMuNTY0LTEuNjM3LTMuNTY0LTMuNTY0IDAtMS45MjcgMS42My0zLjU2NCAzLjU2%0D%0ANDMtMy41NjRzMy41NjMgMS42MzcgMy41NjMgMy41NjRjMCAxLjkyNi0xLjYzNyAzLjU2NC0zLjU2%0D%0AMyAzLjU2NFoiLz48L3N2Zz4=)
 
 ---
 
