@@ -10,10 +10,11 @@ Before transitioning into tech, I worked across the creative industries, consult
 
 ### 🔧 Tech Stack
 
-- **Languages:** JavaScript, Python, HTML, CSS, SQL  
-- **Frameworks/Libraries:** React, Node.js, Flask  
+- **Languages:** JavaScript, Python, HTML, CSS, SQL, Typescript
+- **Frameworks/Libraries:** React, Node.js, Express.js, Flask
 - **Databases:** PostgreSQL, MongoDB  
-- **Tools:** Git, VSCode, Bruno, Render, Netlify
+- **Cloud:** Netlify, Render, Docker, AWS
+- **Tools:** Git, VSCode, Bruno
 
 ---
 
